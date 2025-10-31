@@ -33,7 +33,7 @@
 
 /* Адаптив под айфон 12 */
 
-@media screen and (max-width:2556px ) {
+@media screen and (max-width:3006px ) {
     .container{
         /* background-color: hotpink; */}
         .galeru{
@@ -44,4 +44,5 @@
         .galery_img{
             margin-bottom: 32px;
         }
+
 }
